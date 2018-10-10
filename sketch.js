@@ -7,11 +7,11 @@ var button2Y;
 
 function preload()
 {
-	imgCatInMug = loadImage('https://bleungwpg.github.io/p5jsTutorial3.1/CatInMug.png');
+	imgCatInMug = loadImage('https://mrleungvsa.github.io/y10-p5js-criterion-a-submission-y10-april-ching-a/Twitter_logo_bird_transparent_png.png');
 
 	buttonClick = loadImage('https://bleungwpg.github.io/p5jsTutorial3.1/buttonClick.png');
 	buttonHoverOver = loadImage('https://bleungwpg.github.io/p5jsTutorial3.1/buttonHoverOver.png');
-	buttonNothing = loadImage('https://bleungwpg.github.io/p5jsTutorial3.1/buttonNothing.png');
+	buttonNothing = loadImage('https://mrleungvsa.github.io/y10-p5js-criterion-a-submission-y10-april-ching-a/button_ffffffffffff.png');
 }
 
 function setup()
